@@ -1,0 +1,18 @@
+A team :
+- Name
+- Location
+- HS ranking
+
+Player:
+- First Name
+- Last Name
+- Position
+- Height
+- Weight
+- Age
+- Foreign Key: Team
+- Vertical
+
+Create, Update, Delete, Get functionality for all models
+
+Project is built for potential Basketball HS Scouting Website. Could be extended towards different sports.
