@@ -1,0 +1,37 @@
+[{
+  "_id":"5d713995b721c3bb38c1f5d0",
+  "name":"Ravens",
+  "rank":"4",
+  "address":"25 Cole St Toronto M5A4M7",
+  "email": "ravens@gmail.com",
+  "website":"https://ravens.com",
+  "description" : "Basketball Team in ON CA"
+},
+{
+  "_id":"5d713a66ec8f2b88b8f830b8",
+  "name":"Jaguars",
+  "rank":"3",
+  "address":"20 Cole St Toronto M5A4M7",
+  "email": "jags@gmail.com",
+  "website":"https://jags.com",
+  "description" : "Basketball Team in ON Canada"
+},
+{
+  "_id": "5d725a037b292f5f8ceff787",
+  "name":"Cardinals",
+  "rank":"2",
+  "address":"15 Cole St Toronto M5A4M7",
+  "email": "cardinals@gmail.com",
+  "website":"https://cards.com",
+  "description" : "Basketball Team in Ontario Canada"
+},
+{
+  "_id":"5d725a1b7b292f5f8ceff788",
+  "name":"Gee-gee",
+  "rank":"1",
+  "address":"15 Cole St Toronto M5A4M7",
+  "email": "gees@gmail.com",
+  "website":"https://gee-gee.com",
+  "description" : "Basketball Team in Ontario CA"
+}
+]
